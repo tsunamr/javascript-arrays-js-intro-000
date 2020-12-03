@@ -14,7 +14,6 @@ var array = new array('foo');
 function destructivelyAddElementToBeginningOfArray(){
   return array
 }
-var array = 1 ;
 function destructivelyAddElementToBeginningOfArray(){
   return array
 }
