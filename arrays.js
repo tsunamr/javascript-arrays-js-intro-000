@@ -10,7 +10,7 @@ function destructivelyAddElementToBeginningOfArray(){
 
   return array
 }
-var array = new array('foo');
+var array = new array['foo', 1];
 function destructivelyAddElementToBeginningOfArray(){
   return array
 }
